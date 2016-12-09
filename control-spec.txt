@@ -693,6 +693,8 @@
            "DataSize" / "Float" / "Boolean" / "Time" / "CommaList" /
            "Dependant" / "Virtual" / "String" / "LineList"
          Documentation = Text
+      Note that the incorrect spelling "Dependant" is used instead of
+      "Dependent".
 
     "config/defaults"
       A series of lines listing default values for each configuration
